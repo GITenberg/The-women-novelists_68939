@@ -1,0 +1,29 @@
+_repo: The-women-novelists_68939
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, R. Brimley (Reginald Brimley)
+    alias: Johnson, Reginald Brimley
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '3902'
+    url: http://www.gutenberg.org/2009/agents/3902
+description: ''
+gutenberg_issued: '2022-09-08'
+identifiers:
+  gutenberg: '68939'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t6f18ww3q
+pgterms:marc905: 20220703044904johnson
+pgterms:marc906: '1918'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United Kingdom :W. Collins Sons & Co. Ltd.,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The women novelists
+url: http://www.gutenberg.org/ebooks/68939
